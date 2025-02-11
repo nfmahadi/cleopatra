@@ -1,5 +1,7 @@
 # Cleopatra
-Responsive Agency Template
+A Responsive Agency Template
+Tech Stack: HTML, CSS, JS
+
 
 ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/:mahadixyz/:cleopatra/:main)
 ![GitHub closed issues](https://img.shields.io/github/issues-closed/:mahadixyz/:cleopatra)
